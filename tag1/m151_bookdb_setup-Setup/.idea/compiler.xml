@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="BookDB" />
+        <module name="bookshelf-m151" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
